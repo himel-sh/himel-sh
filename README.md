@@ -33,9 +33,6 @@
 #### 🛠️ Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=git,github,notion,vscode)](https://skillicons.dev)
 
-#### 🎨 Design & Graphics
-[![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
-
 ---
 
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
