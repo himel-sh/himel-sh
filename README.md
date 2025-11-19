@@ -39,7 +39,13 @@
 
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himel-sh/himel-sh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himel-sh/himel-sh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/himel-sh/himel-sh/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <div align="center">
 
