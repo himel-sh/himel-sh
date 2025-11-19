@@ -48,7 +48,10 @@
 
 | 📊 GitHub Stats | 🏆 Top Languages |
 | :---: | :---: |
-| <a href="https://github.com/himel-sh"><img src="https://github-readme-stats.vercel.app/api?username=himel-sh&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" /></a> | <a href="https://github.com/himel-sh"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himel-sh&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" /></a> |
+| <a href="https://github.com/himel-sh"><img src="https://github-readme-stats.vercel.app/api?username=himel-sh&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" /></a> | <a href="https://github.com/himel-sh"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himel-sh&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" /></a> | <a href="https://github.com/himel-sh">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himel-sh&theme=radical&hide_border=true" height="180" alt="GitHub streak" />
+</a> |
+
 
 </div>
 
