@@ -1,4 +1,6 @@
-<img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Hello world">
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Hello world">
+</div>
 <h1 align="center">👋 Hi, I'm Shahriar Hasan Himel</h1>
 <h3 align="center">💻 Web Developer | MERN Stack Enthusiast | Bangladesh 🇧🇩</h3>
 
