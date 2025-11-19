@@ -1,0 +1,27 @@
+name: Generate Pacman Graph
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Pacman Graph
+        uses: pacman-contribution-graph/action@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update Pacman Graph" || echo "No changes to commit"
+
+      - name: Push changes
+        run: git push
