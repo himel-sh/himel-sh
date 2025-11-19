@@ -1,47 +1,76 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<img src="./Company (1).png" alt="Hello world">
+<h1 align="center">👋 Hi, I'm Shahriar Hasan Himel</h1>
+<h3 align="center">💻 Web Developer | MERN Stack Enthusiast | Bangladesh 🇧🇩</h3>
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" />
+<div id="user-content-toc">
+  <ul align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Machine+Learning" alt="Typing SVG" />
+    </a>
+  </ul>
 </div>
 
-###
+### 🚀 About Me
+- 🔭 I’m currently working on **MERN stack projects**
+- 🌱 Learning **Next.js, Firebase, and advanced backend**
+- 💬 Ask me about **React, Express, MongoDB, REST APIs**
+- 📫 Reach me at **shahriarhasan221@gmail.com**
+- ⚡ Fun fact: I turn coffee ☕ into clean code 💡
+
+---
+
+### 🧠 Tech Stack
+
+#### 💻 Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,js)](https://skillicons.dev)
+
+#### ⚙️ Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
+
+#### 🚀 Deployment Platform
+[![My Skills](https://skillicons.dev/icons?i=firebase,netlify,vercel)](https://skillicons.dev)
+
+#### 🛠️ Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=git,github,notion,vscode)](https://skillicons.dev)
+
+#### 🎨 Design & Graphics
+[![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
+
+---
+
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
+
+| 📊 GitHub Stats | 🏆 Top Languages |
+| :---: | :---: |
+| <a href="https://github.com/ShahriarHasanHimel"><img src="https://github-readme-stats.vercel.app/api?username=ShahriarHasanHasanHimel&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" /></a> | <a href="https://github.com/ShahriarHasanHimel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarHasanHimel&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" /></a> |
+
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShahriarHasanHimel/ShahriarHasanHimel/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShahriarHasanHimel/ShahriarHasanHimel/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShahriarHasanHimel/ShahriarHasanHimel/output/pacman-contribution-graph.svg">
-</picture>
+#### 📫 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:shahriarhasan221@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</div>
 
-###
+---
 
-**📧 Email:** shahriarhasan221@gmail.com
+⭐ **“Code. Learn. Build. Repeat.”**
