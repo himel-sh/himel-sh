@@ -7,7 +7,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Machine+Learning" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Web+Developer;JavaScript+Enthusiast;Always+Interested+in+Learning" alt="Typing SVG" />
     </a>
   </ul>
 </div>
